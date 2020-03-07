@@ -1,0 +1,23 @@
+{
+  "name": "http-test",
+  "version": "1.0.0",
+  "description": "http practice",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/716green/http.git"
+  },
+  "author": "Bob Bass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/716green/http/issues"
+  },
+  "homepage": "https://github.com/716green/http#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
